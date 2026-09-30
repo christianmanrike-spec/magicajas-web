@@ -1,0 +1,68 @@
+:root{
+  /* --- Base palette (sampled from the official logo) --- */
+  --mc-purple-900:#1B0628;
+  --mc-purple-800:#240A36;
+  --mc-purple:#300C48;      /* Morado Magicajas — estructura, texto, contornos */
+  --mc-purple-600:#4A1D66;
+  --mc-purple-400:#7A4E96;
+  --mc-purple-200:#C7B2D6;
+  --mc-purple-050:#EFE8F3;
+
+  --mc-orange:#F9600C;      /* Naranja — energía, transformación, acción */
+  --mc-orange-600:#D94F06;
+  --mc-orange-200:#FFD2B8;
+  --mc-orange-050:#FFEDE2;
+
+  --mc-yellow:#FCC018;      /* Amarillo — señalización, descubrimiento */
+  --mc-yellow-600:#E0A400;
+  --mc-yellow-100:#FFF0C4;
+
+  --mc-fuchsia:#CC0060;     /* Fucsia — acento creativo */
+  --mc-fuchsia-600:#A80050;
+  --mc-fuchsia-100:#FFE0EC;
+
+  --mc-kraft:#DBB584;       /* Kraft — cartón, descanso visual */
+  --mc-kraft-600:#B98F5C;
+  --mc-kraft-200:#F0E2CE;
+
+  --mc-cream:#FAF4E8;       /* Crema — fondo por defecto */
+  --mc-cream-deep:#F2E9D9;
+  --mc-white:#FFFFFF;
+  --mc-ink-60:rgba(48,12,72,.60);
+  --mc-ink-40:rgba(48,12,72,.40);
+  --mc-ink-12:rgba(48,12,72,.12);
+  --mc-ink-06:rgba(48,12,72,.06);
+
+  /* --- Semantic aliases --- */
+  --surface-page:var(--mc-cream);
+  --surface-card:var(--mc-white);
+  --surface-kraft:var(--mc-kraft-200);
+  --surface-inverse:var(--mc-purple);
+  --surface-sunken:var(--mc-cream-deep);
+
+  --text-strong:var(--mc-purple);
+  --text-body:var(--mc-purple-800);
+  --text-muted:var(--mc-ink-60);
+  --text-on-inverse:var(--mc-cream);
+  --text-on-accent:var(--mc-white);
+  --text-link:var(--mc-orange-600);
+  --text-link-hover:var(--mc-purple);
+
+  --border-structural:var(--mc-purple);   /* contorno de 2px, código de marca */
+  --border-hairline:var(--mc-ink-12);
+  --border-die-cut:var(--mc-kraft-600);   /* línea de troquel segmentada */
+
+  --action-primary:var(--mc-orange);
+  --action-primary-hover:var(--mc-orange-600);
+  --action-secondary:var(--mc-purple);
+  --action-secondary-hover:var(--mc-purple-600);
+  --accent-tab:var(--mc-yellow);
+  --accent-creative:var(--mc-fuchsia);
+
+  --focus-ring:var(--mc-fuchsia);
+
+  --state-success:#2E8B57;
+  --state-warning:var(--mc-yellow-600);
+  --state-error:var(--mc-fuchsia-600);
+  --state-info:var(--mc-purple-600);
+}

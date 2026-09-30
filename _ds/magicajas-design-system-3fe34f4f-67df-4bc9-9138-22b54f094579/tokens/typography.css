@@ -1,0 +1,35 @@
+:root{
+  --font-display:"Poppins","Poppins Fallback",system-ui,sans-serif;   /* titulares, comercial */
+  --font-body:"Inter","Inter Fallback",system-ui,sans-serif;          /* corridos, datos, precios */
+  --font-mono:ui-monospace,"SFMono-Regular",Menlo,monospace;          /* referencias de troquel */
+
+  --fw-black:900; /* @kind font */ --fw-extrabold:800; /* @kind font */ --fw-bold:700; /* @kind font */ --fw-semibold:600; /* @kind font */ --fw-medium:500; /* @kind font */ --fw-regular:400; /* @kind font */
+
+  /* Display / Poppins */
+  --text-display-1:clamp(44px,6vw,80px);
+  --text-display-2:clamp(36px,4.4vw,60px);
+  --text-display-3:clamp(28px,3vw,44px);
+  --text-heading-1:32px;
+  --text-heading-2:24px;
+  --text-heading-3:20px;
+  --text-eyebrow:13px;
+
+  /* Body / Inter */
+  --text-body-lg:18px;
+  --text-body-md:16px;
+  --text-body-sm:14px;
+  --text-caption:12px;
+  --text-spec:11px;   /* etiquetas técnicas */
+
+  --lh-tight:0.98; /* @kind font */
+  --lh-display:1.04; /* @kind font */
+  --lh-heading:1.15; /* @kind font */
+  --lh-body:1.6; /* @kind font */
+  --lh-spec:1.35; /* @kind font */
+
+  --ls-display:-0.02em; /* @kind font */
+  --ls-heading:-0.01em; /* @kind font */
+  --ls-body:0; /* @kind font */
+  --ls-eyebrow:0.14em; /* @kind font */
+  --ls-spec:0.06em; /* @kind font */
+}

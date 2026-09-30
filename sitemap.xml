@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+ <url>
+  <loc>https://magicajas.com/</loc>
+  <lastmod>2026-09-30</lastmod>
+  <changefreq>monthly</changefreq>
+  <priority>1.0</priority>
+  <image:image><image:loc>https://magicajas.com/img/catalogo/caja-x1-con-asa-y-ventana-personalizada-con-logo.jpg</image:loc></image:image>
+  <image:image><image:loc>https://magicajas.com/img/catalogo/caja-x2-con-asa-y-ventana-personalizada-con-logo.jpg</image:loc></image:image>
+  <image:image><image:loc>https://magicajas.com/img/catalogo/caja-x4-ventana-flor-personalizada-con-logo.jpg</image:loc></image:image>
+  <image:image><image:loc>https://magicajas.com/img/catalogo/caja-x6-ventana-cuadrada-personalizada-con-logo.jpg</image:loc></image:image>
+  <image:image><image:loc>https://magicajas.com/img/catalogo/caja-x3-ventana-festoneada-personalizada-con-logo.jpg</image:loc></image:image>
+  <image:image><image:loc>https://magicajas.com/img/catalogo/caja-maletin-grande-regalo-personalizada-con-logo.jpg</image:loc></image:image>
+  <image:image><image:loc>https://magicajas.com/img/catalogo/caja-para-fresas-personalizada-con-logo.jpg</image:loc></image:image>
+  <image:image><image:loc>https://magicajas.com/img/catalogo/caja-maletin-pequena-personalizada-con-logo.jpg</image:loc></image:image>
+  <image:image><image:loc>https://magicajas.com/img/catalogo/mini-ancheta-personalizada-con-logo.jpg</image:loc></image:image>
+  <image:image><image:loc>https://magicajas.com/img/catalogo/caja-crispetas-personalizada-con-logo.jpg</image:loc></image:image>
+  <image:image><image:loc>https://magicajas.com/img/catalogo/caja-para-tortas-personalizada-con-logo.jpg</image:loc></image:image>
+ </url>
+ <url>
+  <loc>https://magicajas.com/llms.txt</loc>
+  <lastmod>2026-09-30</lastmod>
+ </url>
+</urlset>

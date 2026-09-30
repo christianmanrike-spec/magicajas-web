@@ -1,0 +1,11 @@
+:root{
+  /* Sombras planas y desplazadas: parecen una pieza de cartón levantada, no un blur suave */
+  --shadow-none:none;
+  --shadow-fold:2px 2px 0 var(--mc-ink-12);
+  --shadow-lift:4px 4px 0 var(--mc-purple);
+  --shadow-lift-kraft:4px 4px 0 var(--mc-kraft-600);
+  --shadow-card:0 2px 0 var(--mc-ink-12);
+  --shadow-raised:0 10px 24px -12px rgba(48,12,72,.28);
+  --shadow-overlay:0 24px 60px -20px rgba(48,12,72,.45);
+  --shadow-focus:0 0 0 3px color-mix(in oklab,var(--focus-ring) 45%,transparent);
+}

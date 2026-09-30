@@ -1,0 +1,19 @@
+:root{
+  /* Retícula de 4px; los pasos 8/16/24 dominan la construcción modular */
+  --space-0:0px; --space-1:4px; --space-2:8px; --space-3:12px; --space-4:16px;
+  --space-5:24px; --space-6:32px; --space-7:40px; --space-8:56px; --space-9:72px;
+  --space-10:96px; --space-11:128px;
+
+  --gutter-block:24px;     /* separación entre bloques modulares */
+  --pad-card:24px;
+  --pad-card-lg:32px;
+  --section-y:96px;
+  --section-y-sm:56px;
+  --container-max:1200px;
+  --container-narrow:720px;
+
+  --icon-grid:24px;        /* retícula base de iconos funcionales */
+  --icon-stroke:2px;       /* grosor de línea de iconos */
+  --fold-offset:14px;      /* tamaño del pliegue de esquina */
+  --tab-height:28px;       /* alto de una pestaña de color */
+}
